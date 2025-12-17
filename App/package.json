@@ -41,7 +41,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hyuto/yolov5-tfjs-react-native.git"
+    "url": ""
   },
   "bugs": {
     "url": "https://github.com/Hyuto/yolov5-tfjs-react-native/issues"
